@@ -42,4 +42,4 @@ To test this application, you can run my routes through insomnia.
 
 Have any questions? This is how to contact me:
 
-Github: https://github.com/RuckusEnjoyer
+Github: https://github.com/kizirkle
